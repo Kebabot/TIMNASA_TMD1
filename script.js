@@ -41,7 +41,7 @@ const date = moment().format('DD/MM/YYYY');
 > https://github.com/SIMON32883/MR-ANYWAY-MD
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VagWQ255q08VTCRQKP09
+> null
 ⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
