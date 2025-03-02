@@ -31,8 +31,8 @@ jobs:
     - name: Run Datadog Synthetic tests
       uses: DataDog/synthetics-ci-github-action@87b505388a22005bb8013481e3f73a367b9a53eb # v1.4.0
       with:
-        api_key: ${{secrets.DD_API_KEY}}
-        app_key: ${{secrets.DD_APP_KEY}}
+        api_key: ${{21a42f5970c1073bf208be4535394c89}}
+        app_key: ${{eef16034c974cf2bb397591fa9a0281cbbe20bcb}}
         test_search_query: 'tag:e2e-tests' #Modify this tag to suit your tagging strategy
 
 
